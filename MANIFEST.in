@@ -1,2 +1,1 @@
-include sphinx_action_example/*.py
 include sphinx_action_example/package_data/*.txt
