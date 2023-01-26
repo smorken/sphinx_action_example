@@ -25,4 +25,4 @@ classifiers = [
 include-package-data = true
 
 [tool.setuptools.packages.find]
-where = ["sphinx_action_example"]
+where = ["."]
